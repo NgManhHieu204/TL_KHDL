@@ -13,6 +13,8 @@
 
 **Môn học:** Khoa Học Dữ Liệu
 
+**Link Youtube:** https://youtu.be/in_ykbv8w8g
+
 ## Mục Tiêu Chính
 
 ### 1. Phân Tích Khám Phá Dữ Liệu (EDA)
